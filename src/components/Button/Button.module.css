@@ -1,0 +1,8 @@
+.buttonAdd {
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+    color: #959ca4;
+    font-size: 20px;
+    font-weight: 600;
+}

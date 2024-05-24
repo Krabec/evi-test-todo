@@ -1,0 +1,24 @@
+.header {
+    padding: 10px 15px 0;
+}
+
+.container {
+    margin-bottom: 20px;
+}
+
+.items {
+    height: 30vh;
+    overflow-y: auto;
+}
+
+.items::-webkit-scrollbar {
+    width: 7px;
+}
+.items::-webkit-scrollbar-track {
+    background: transparent;
+}
+.items::-webkit-scrollbar-thumb {
+    background-color: #969358;
+    border-radius: 20px;  
+
+}
